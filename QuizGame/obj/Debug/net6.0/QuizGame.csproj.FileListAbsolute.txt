@@ -1,0 +1,15 @@
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.csproj.AssemblyReference.cache
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.AssemblyInfoInputs.cache
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.AssemblyInfo.cs
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.csproj.CoreCompileInputs.cache
+E:\Proyectos C sharp\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.exe
+E:\Proyectos C sharp\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.deps.json
+E:\Proyectos C sharp\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.runtimeconfig.json
+E:\Proyectos C sharp\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.dll
+E:\Proyectos C sharp\QuizGame\QuizGame\bin\Debug\net6.0\QuizGame.pdb
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.dll
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\refint\QuizGame.dll
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.pdb
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\QuizGame.genruntimeconfig.cache
+E:\Proyectos C sharp\QuizGame\QuizGame\obj\Debug\net6.0\ref\QuizGame.dll
